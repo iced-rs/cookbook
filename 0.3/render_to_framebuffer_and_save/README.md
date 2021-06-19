@@ -3,6 +3,8 @@ The purpose of this example is, to render a GUI to an off-screen framebuffer and
 
 It is based on [this](https://github.com/hecrj/iced/tree/master/examples/integration) Iced example in combination with [this](https://github.com/gfx-rs/wgpu-rs/tree/master/examples/capture) wgpu example.
 
+![Screenshot of GUI](https://user-images.githubusercontent.com/12140954/122641248-5b7e2480-d104-11eb-9852-ef621ebe9a71.png)
+
 ## What this does
 It simply renders an arbitrary Iced app (in this case a simple counter app) to a framebuffer. Afterwards the buffer is saved to the disk as a png.
 
