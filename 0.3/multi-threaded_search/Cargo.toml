@@ -1,5 +1,5 @@
 [package]
-name = "milti-threaded_search"
+name = "multi-threaded_search"
 version = "0.1.0"
 authors = ["13r0ck <>"]
 edition = "2018"
