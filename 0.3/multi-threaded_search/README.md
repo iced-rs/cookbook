@@ -3,7 +3,7 @@
 > It is recommended to run this example using a release build `cargo run --release`
 
 <div align="center">
-    <img src="https://github.com/GCI-Global/bathtub/blob/main/0.3/multi-threaded_search/img/example.gif?raw=true">
+    <img src="https://github.com/iced-rs/cookbook/blob/main/0.3/multi-threaded_search/img/example.gif?raw=true">
 </div>
 
 The main thing this example shows is how to use Iced with multi-threaded Rust to create blazingly fast software with ease. This example is by no means very optimized. This example is mostly an example of what a mild-ly experienced developer can do in a short timespan, because that is how it was built :)
