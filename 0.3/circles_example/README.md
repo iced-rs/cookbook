@@ -9,3 +9,7 @@ This example illustrates the following:
 3. Show that a Canvas is stil performant even when it has a large number of objects in it.
 
 Tested on a Mac.
+
+<div align="center">
+    <img src="https://github.com/iced-rs/cookbook/blob/main/0.3/circles_example/img/example.png">
+</div>
