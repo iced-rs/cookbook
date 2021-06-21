@@ -1,0 +1,9 @@
+[package]
+name = "circles_example"
+version = "0.1.0"
+authors = ["David Jaffe <david.jaffe@10xgenomics.com>"]
+edition = "2018"
+
+[dependencies]
+iced = { version = "0.3", features = ["canvas"] }
+iced_native = "0.4"
