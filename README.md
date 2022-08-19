@@ -1,7 +1,4 @@
 # [Iced](https://media.giphy.com/media/b53xiN5B5blvi/giphy.gif) Cookbook
-<div align="center">
-    <img src="https://media.giphy.com/media/3LCDDCPN1H1zG/giphy.gif">
-</div>
 
 ## Purpose
 The examples in the main Iced repository are to show core functionality, like how to use a [`Picklist`](https://github.com/hecrj/iced/tree/master/examples/pick_list) or very common proof of concept examples like [`TodoMVC`](https://github.com/hecrj/iced/tree/master/examples/todos). Though clearly there is more that can be accomplished in a GUI framework than a few dozen examples. That is where this cookbook come in!
